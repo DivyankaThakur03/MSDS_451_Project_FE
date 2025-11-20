@@ -104,8 +104,3 @@ All research design, analysis, and recommendations are human-authored.
 - Grinold & Kahn (2000) - *Active Portfolio Management*
 - Lo (2019) - *Adaptive Markets*
 - López de Prado (2018) - *Advances in Financial Machine Learning*
-
-
----
-
-**Last Updated:** November 2025 | **Status:** Final Submission ✅
